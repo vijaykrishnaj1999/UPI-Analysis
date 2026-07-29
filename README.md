@@ -21,9 +21,48 @@ This Power BI dashboard provides analysis of Digital Payment and UPI transaction
 5. **Filters**: Month, Status, and Day slicers for interactive analysis
 
 ## Pages
-1. **DIGITAL PAYMENTS**: Current dashboard with KPIs and trends
-2. **EXECUTIVE SUMMARY**: High level overview
+1. **EXECUTIVE SUMMARY**: High level overview
+2. **DIGITAL PAYMENTS**: Current dashboard with KPIs and trends
 3. **TRANSACTION ANALYSIS**: Detailed breakdown
+
+  📊 Dashboard Pages
+
+1️⃣ Executive Summary
+
+Provides a high-level overview of the digital payment system using KPIs and interactive slicers.
+KPIs Included
+Total Transactions
+Total Transaction Amount
+Average Transaction Amount
+Successful Transactions
+Failed Transactions
+Success Rate
+
+**Visualizations**
+Transaction Status Distribution
+Transactions by Month
+Transactions by Hour
+Month, Status, and Day slicers
+
+2️⃣ Digital Payments
+Analyzes payment activity and transaction performance.
+
+**Visualizations**
+Transaction by Hour
+Monthly Transaction Analysis
+Transaction Status Distribution
+KPI Cards
+Interactive Filters
+
+3️⃣ Transaction Analysis
+Provides detailed insights into transaction behavior.
+
+**Visualizations**
+Top 10 Receivers
+Daily Transaction Trend
+Average Transaction Amount by Month
+Success vs Failed Transactions by Month
+Top 10 Highest Transactions
 
 ## Dataset
 Dataset includes UPI/Digital payment data with fields: Transaction ID, Date, Time, Amount, Status, Month, Day
@@ -40,3 +79,8 @@ Dataset includes UPI/Digital payment data with fields: Transaction ID, Date, Tim
 - **Peak Hours**: Highest transaction activity observed during mid-morning hours
 - **Monthly Trend**: June had significantly higher transaction volume than July
 - **Avg Ticket Size**: Average transaction amount is 5.00K
+
+This Power BI project analyzes UPI digital payment transactions through an interactive dashboard. It provides an executive overview, payment performance metrics, and detailed transaction analysis to help users understand transaction trends, success rates, and receiver insights.
+
+
+
