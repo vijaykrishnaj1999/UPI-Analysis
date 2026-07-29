@@ -1,5 +1,11 @@
 
 This dashboard analyzing UPI Analysis / Digital payment transcations : success rate, failed vs successful transactions, hourly trends, and monthly volume
+
+<img width="1345" height="735" alt="image 1" src="https://github.com/user-attachments/assets/d73f09bb-7091-43f0-bab4-9ab2ca4aca80" />
+<img width="1340" height="722" alt="image 2" src="https://github.com/user-attachments/assets/6b691318-84e5-4fff-97f0-37cbcac3b181" />
+
+
+
 # Digital Payment Transaction (UPI) Analysis Dashboard - Power BI
 
 ## Overview
